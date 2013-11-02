@@ -10,3 +10,8 @@ Running
 =======
 
 To run the program, simply download the entire source folder and run spin.py. Python 3.x is required.
+
+Why is it writen in python?
+===========================
+
+I'm lazy, and prefer programming for linux operating systems. Python happens to run on the popular operating systems and it's lighter than java albeit slower in some situations.
